@@ -1,0 +1,56 @@
+[
+  {
+    "projectId": "1",
+    "projectName": "First Project",
+    "shortDescription": "Lorem ipsum dolor sit amet consectetur.",
+    "longDescription": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    "client": "Threads",
+    "category": "Illustration",
+    "imageUrl": "assets/img/portfolio/1.jpg"
+  },
+  {
+    "projectId": "2",
+    "projectName": "Second Project",
+    "shortDescription": "Lorem ipsum dolor sit amet consectetur.",
+    "longDescription": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    "client": "Explore ",
+    "category": "Graphic Design",
+    "imageUrl": "assets/img/portfolio/2.jpg"
+  },
+  {
+    "projectId": "3",
+    "projectName": "Third Project",
+    "shortDescription": "Lorem ipsum dolor sit amet consectetur.",
+    "longDescription": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    "client": "Finish",
+    "category": "Identity",
+    "imageUrl": "assets/img/portfolio/3.jpg"
+  },
+  {
+    "projectId": "4",
+    "projectName": "Forth Project",
+    "shortDescription": "Lorem ipsum dolor sit amet consectetur.",
+    "longDescription": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    "client": "Lines",
+    "category": "Branding",
+    "imageUrl": "assets/img/portfolio/4.jpg"
+  },
+  {
+    "projectId": "5",
+    "projectName": "Fifth Project",
+    "shortDescription": "Lorem ipsum dolor sit amet consectetur.",
+    "longDescription": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    "client": "Southwest",
+    "category": "Website Design",
+    "imageUrl": "assets/img/portfolio/5.jpg"
+  },
+  {
+    "projectId": "6",
+    "projectName": "Sixth Project",
+    "shortDescription": "Lorem ipsum dolor sit amet consectetur.",
+    "longDescription": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    "client": "Window",
+    "category": "Photography",
+    "imageUrl": "assets/img/portfolio/6.jpg"
+  }
+]
